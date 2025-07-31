@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Customer Service Standards",
+    "content": "All customer interactions must be handled with professionalism, empathy, and efficiency. Response time should not exceed 2 minutes for voice calls. Always confirm customer understanding before ending the call.",
+    "category": "service_standards"
+  },
+  {
+    "title": "Account Access Policy",
+    "content": "Customer identity must be verified before providing account information. Acceptable verification methods include: account number + last 4 digits of SSN, email address + security question, or phone number + PIN.",
+    "category": "security"
+  },
+  {
+    "title": "Billing Dispute Resolution",
+    "content": "For billing disputes under $100, agents can issue immediate credits. For disputes over $100, escalate to billing department. Always document the reason for dispute and resolution taken.",
+    "category": "billing"
+  },
+  {
+    "title": "Technical Support Escalation",
+    "content": "If unable to resolve technical issues within 10 minutes, offer to escalate to technical support team. Provide customer with ticket number and expected callback time.",
+    "category": "technical_support"
+  },
+  {
+    "title": "Privacy and Data Protection",
+    "content": "Never share customer personal information with unauthorized parties. All conversations are recorded for quality assurance. Customers have the right to request deletion of their data.",
+    "category": "privacy"
+  },
+  {
+    "title": "Service Hours and Availability",
+    "content": "AI voice assistant is available 24/7. Human agents are available Monday-Friday 8AM-8PM EST, Saturday-Sunday 10AM-6PM EST. Emergency technical support is available 24/7.",
+    "category": "availability"
+  },
+  {
+    "title": "Refund and Cancellation Policy",
+    "content": "Customers can cancel service within 30 days for full refund. After 30 days, prorated refunds are available. Cancellation requests must be confirmed via email within 24 hours.",
+    "category": "billing"
+  },
+  {
+    "title": "Account Security Best Practices",
+    "content": "Recommend customers use strong passwords, enable two-factor authentication, and never share login credentials. If account compromise is suspected, immediately reset password and review recent activity.",
+    "category": "security"
+  },
+  {
+    "title": "Service Level Agreements",
+    "content": "Standard service uptime guarantee is 99.9%. Planned maintenance windows are announced 48 hours in advance. Service credits are automatically applied for downtime exceeding SLA.",
+    "category": "service_standards"
+  },
+  {
+    "title": "Customer Complaint Handling",
+    "content": "Listen actively to customer concerns, acknowledge their frustration, and focus on solutions. Document all complaints in the system. Follow up within 24 hours if issue cannot be resolved immediately.",
+    "category": "service_standards"
+  }
+]
