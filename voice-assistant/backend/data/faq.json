@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page, or by calling our support line. You'll receive a reset link via email within 5 minutes.",
+    "category": "account_access"
+  },
+  {
+    "question": "What are your service hours?",
+    "answer": "Our AI voice assistant is available 24/7. Human support agents are available Monday through Friday 8AM to 8PM Eastern Time, and weekends 10AM to 6PM Eastern Time.",
+    "category": "general"
+  },
+  {
+    "question": "How much does the service cost?",
+    "answer": "Our basic plan starts at $29.99 per month, with premium plans available at $49.99 and $99.99 per month. All plans include a 30-day free trial.",
+    "category": "billing"
+  },
+  {
+    "question": "Can I cancel my subscription anytime?",
+    "answer": "Yes, you can cancel your subscription at any time. If you cancel within the first 30 days, you'll receive a full refund. After that, you'll receive a prorated refund for unused time.",
+    "category": "billing"
+  },
+  {
+    "question": "How do I update my billing information?",
+    "answer": "You can update your billing information by logging into your account and going to the Billing section, or by calling our support line for assistance.",
+    "category": "billing"
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, we use industry-standard encryption to protect your data. All conversations are encrypted in transit and at rest. We never share your personal information with third parties without your consent.",
+    "category": "security"
+  },
+  {
+    "question": "What should I do if I'm having technical issues?",
+    "answer": "First, try refreshing your browser or restarting the app. If the issue persists, please contact our technical support team. We're available 24/7 for emergency technical issues.",
+    "category": "technical_support"
+  },
+  {
+    "question": "How do I contact a human agent?",
+    "answer": "You can request to speak with a human agent at any time during our conversation. Simply say 'I want to speak to a human' or 'transfer me to an agent' and I'll connect you immediately.",
+    "category": "general"
+  },
+  {
+    "question": "Can I use the service on multiple devices?",
+    "answer": "Yes, you can access your account from multiple devices. Your premium plan allows up to 5 simultaneous connections, while the basic plan allows 2 connections.",
+    "category": "account_access"
+  },
+  {
+    "question": "How do I download my data?",
+    "answer": "You can download your data by going to Account Settings > Privacy > Download My Data. The download will be prepared within 24 hours and sent to your registered email address.",
+    "category": "privacy"
+  },
+  {
+    "question": "What happens if I exceed my usage limits?",
+    "answer": "If you exceed your plan's usage limits, you'll be notified and can either upgrade your plan or pay for additional usage at standard rates. Service won't be interrupted.",
+    "category": "billing"
+  },
+  {
+    "question": "How accurate is the voice recognition?",
+    "answer": "Our voice recognition system has over 95% accuracy in optimal conditions. Accuracy may vary based on background noise, accent, and audio quality. We continuously improve our models.",
+    "category": "technical_support"
+  },
+  {
+    "question": "Can I integrate this with other services?",
+    "answer": "Yes, we offer API integrations with popular business tools and platforms. Check our developer documentation for available integrations and setup instructions.",
+    "category": "technical_support"
+  },
+  {
+    "question": "What languages are supported?",
+    "answer": "Currently, we support English, Spanish, French, German, Italian, Portuguese, and Japanese. We're continuously adding support for additional languages.",
+    "category": "general"
+  },
+  {
+    "question": "How do I report a bug or issue?",
+    "answer": "You can report bugs through our support portal, by email at support@company.com, or by describing the issue to me right now. We prioritize bug fixes based on severity and impact.",
+    "category": "technical_support"
+  },
+  {
+    "question": "Is there a mobile app available?",
+    "answer": "Yes, we have mobile apps available for both iOS and Android. You can download them from the App Store or Google Play Store. The apps offer the same features as our web platform.",
+    "category": "general"
+  },
+  {
+    "question": "How do I upgrade or downgrade my plan?",
+    "answer": "You can change your plan at any time from your account dashboard. Upgrades take effect immediately, while downgrades take effect at the next billing cycle.",
+    "category": "billing"
+  },
+  {
+    "question": "What happens to my data if I cancel?",
+    "answer": "Your data is retained for 90 days after cancellation in case you want to reactivate your account. After 90 days, all data is permanently deleted unless you request an extension.",
+    "category": "privacy"
+  },
+  {
+    "question": "Do you offer enterprise plans?",
+    "answer": "Yes, we offer custom enterprise plans with advanced features, dedicated support, and volume discounts. Please contact our sales team for a personalized quote.",
+    "category": "billing"
+  },
+  {
+    "question": "How can I provide feedback about the service?",
+    "answer": "We welcome your feedback! You can provide feedback through your account dashboard, by email, or by telling me directly. Your input helps us improve our service continuously.",
+    "category": "general"
+  }
+]
